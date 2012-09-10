@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(
-    name='django-ember',
+    name='django-ember-a',
     version=__import__('ember').__version__,
     description=__import__('ember').__description__,
     long_description=open('README.rst').read(),
