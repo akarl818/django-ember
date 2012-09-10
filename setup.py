@@ -8,7 +8,7 @@ setup(
     description=__import__('ember').__description__,
     long_description=open('README.rst').read(),
     url='https://github.com/akarl818/django-ember.git',
-    download_url='https://github.com/akarl818/django-ember.git',
+    download_url='https://github.com/akarl818/django-ember/zipball/master',
     author='Andreas Karlsson',
     packages=['ember', 'ember.templatetags'],
     include_package_data=True,
